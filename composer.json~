@@ -1,0 +1,30 @@
+{
+    "name" : "Saonela/WeatherBundle",
+    "description" : "A weather bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "",
+        "email" : ""
+    }],
+    "keywords" : [
+        "weather bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Saonela\\WeatherBundle" : ""
+        }
+    },
+    "target-dir" : "Saonela/WeatherBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "master" : ""
+        }
+    }
+}
